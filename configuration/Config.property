@@ -1,0 +1,7 @@
+chromeDriver=C:\Users\mailm\eclipse-workspace\Suchi-Sample\binaries\chromedriver.exe
+
+firefoxDriver=C:\Users\mailm\eclipse-workspace\Suchi-Sample\binaries\geckodriver.exe
+
+URL=https://www.facebook.com/
+
+Excelpath=
